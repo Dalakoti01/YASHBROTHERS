@@ -43,12 +43,12 @@ const FeaturedCollections = () => {
   return <section id="collections" className="py-20 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          {/* <h2 className="text-sm md:text-base font-medium text-[#D4AF37] uppercase tracking-widest mb-3">
+          <h2 className="text-sm md:text-base font-medium text-[#D4AF37] uppercase tracking-widest mb-3">
             Our Exclusive Collections
           </h2>
           <h3 className="text-3xl md:text-4xl font-bold text-[#2E2E2E]">
             Discover Timeless Beauty
-          </h3> */}
+          </h3>
           <div className="w-24 h-1 bg-[#D4AF37] mx-auto mt-6"></div>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
